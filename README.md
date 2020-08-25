@@ -23,7 +23,7 @@ be passed to the view via a specific controller action.
 
 But if you think about most web applications you use, there is information on
 most pages that is dependent on being logged in. You can see a lot of
-information if you are logged in and practically none if you're not. So how can
+information if you are logged in and practically none if you're not. So how can 
 you handle that sort of application flow without logic?
 
 Instead of writing that type of logic directly into a view, we use helper
